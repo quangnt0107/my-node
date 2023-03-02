@@ -1,0 +1,23 @@
+﻿{"loaihoas":[
+  {
+    "maloai": 1,
+    "tenloai": "Hoa cúc"
+
+  },
+  {
+    "maloai": 2,
+    "tenloai": "Hoa cưới"
+   
+  },
+  {
+    "maloai": 3,
+    "tenloai": "Hoa hồng"
+   
+  },
+  {
+    "maloai": 4,
+    "tenloai": "Hoa xuân"
+   
+  }
+]
+}
